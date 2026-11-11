@@ -4,6 +4,7 @@ import { ArrowDown, ArrowLeft, ArrowRight, ArrowUpRight, BookOpen, Bookmark, Che
 import books from './books.json';
 import './style.css';
 import './bookshelf.css';
+import './large-text.css';
 
 const colors = ['#ecb7a4','#b6c3c6','#c8bea6','#9aa8ba','#b9c6a7','#d4c2a8','#b0a6a1','#c7b8c5','#b8bfaf','#e4c29c','#e4b9bd','#a8bdba','#9fb5a1','#d3b9a2','#b6c7a8','#d8cda5','#b6a99e','#9eacc4','#a9bec1','#c1b69f'];
 const tags = ['우리의 오늘','진실과 믿음','이웃과 성장','한국 판타지','나다운 아름다움','시간의 의미','생각의 발견','가족의 의미','소문과 진실','우리의 관계','첫사랑','따뜻한 위로','용서와 화해','낯선 변화','우정과 성장','나의 선택','마음과 공감','연대와 용기','책임과 우정','기억과 감정'];
